@@ -64,8 +64,8 @@ A aplicação conta com uma página e modais para cadastro e edição dos pratos
 
 <br/>
 <img alt="Tela Home" src="readme_images/home.png">
-<img width="49.5%" alt="Modal de cadastro de um prato" src="readme_images/register-modal.png">
-<img width="49.5%" alt="Modal de edição de um prato" src="readme_images/edit-modal.png">
+<img alt="Modal de cadastro de um prato" src="readme_images/register-modal.png">
+<img alt="Modal de edição de um prato" src="readme_images/edit-modal.png">
 <br/>
 <br/>
 
